@@ -39,7 +39,7 @@ public class multi implements MultiPlayerGame {
         
         
         
-        return ("Prochain tir : joueur " + this.noms[this.numJ] + ", tour n° " + this.tour + ", boule n° " + this.boule);
+        ///return ("Prochain tir : joueur " + this.noms[this.numJ] + ", tour n° " + this.tour + ", boule n° " + this.boule);
     
     
     
